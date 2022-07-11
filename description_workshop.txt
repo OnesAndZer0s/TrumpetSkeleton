@@ -11,3 +11,7 @@ Additions :
 - Trumpet
   - Playable instrument
   - Knocks NPCs back
+
+  #TODO - 
+minion
+pet
