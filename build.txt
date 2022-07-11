@@ -1,0 +1,8 @@
+author = OnesAndZer0s
+displayName = Trumpet Skeleton
+homepage = https://tmodloader.net/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Old\*
+includePDB = true

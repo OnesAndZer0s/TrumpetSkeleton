@@ -1,0 +1,13 @@
+-------------------doot--------------------
+      because I think it's funny lol
+-------------------doot--------------------
+
+Additions :
+
+- Trumpet Skeleton
+  - Spawns in the dungeon
+  - Rarely drops Trumpet
+
+- Trumpet
+  - Playable instrument
+  - Knocks NPCs back
